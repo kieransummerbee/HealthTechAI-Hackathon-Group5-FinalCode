@@ -20,9 +20,9 @@ import spacy
 
 os.environ['KMP_DUPLICATE_LIB_OK'] = 'TRUE'
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "INSERT KEY"
 
-openai.api_key  = "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"
+openai.api_key  = "INSERT KEY"
 
 
 
